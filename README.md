@@ -15,4 +15,4 @@ Sou a Beatriz Lopes, interessada em oportunidades na área de programação para
 
 ## Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Lindekin' height='30'>](linkedin.com/in/beatriz-lopesds)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Lindekin' height='30'>](https://www.linkedin.com/in/beatriz-lopesds)
