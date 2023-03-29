@@ -4,7 +4,7 @@ My name is Beatriz Lopes.
 
 I'm a junior Front-End developer who is passionate about creating intuitive and effective user interfaces and experiences. I'm currently studying Information Systems, but I'm also interested in exploring other technology-related areas, such as data science and artificial intelligence.
 
-I created my Github readme page to showcase some of my projects and learnings in the Front-End area, but I'm always looking for opportunities to learn and grow as a developer. I love working in a team environment, and I'm always willing to lend a helping hand and find creative solutions to problems.
+I'm always looking for opportunities to learn and grow as a developer. I love working in a team environment, and I'm always willing to lend a helping hand and find creative solutions to problems.
 
 <div style={{display: 'flex'}}>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
