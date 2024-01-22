@@ -1,10 +1,8 @@
 ### Hello 👋
 
-My name is Beatriz Lopes.
+I'm Beatriz
 
-I'm a junior Front-End developer who is passionate about creating intuitive and effective user interfaces and experiences. I'm currently studying Information Systems, but I'm also interested in exploring other technology-related areas, such as data science and artificial intelligence.
-
-I'm always looking for opportunities to learn and grow as a developer. I love working in a team environment, and I'm always willing to lend a helping hand and find creative solutions to problems.
+Nowadays I study in medical school, but I've been a front-end developer for a year. Here are some of my repositories when I used to study tecnology :)
 
 <div style={{display: 'flex'}}>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -18,8 +16,6 @@ I'm always looking for opportunities to learn and grow as a developer. I love wo
 </div>      
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopsbea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=lopsbea&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
